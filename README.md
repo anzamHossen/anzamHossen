@@ -40,11 +40,11 @@ Welcome to my profile! Currently I'm working at [Nagadhat](https://nagadhat.com.
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-<a href="https://github.com/Akash0000439">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Akash0000439&theme=dark&show_icons=true&count_private=true&hide=contribs&line_height=40" />
+<a href="https://github.com/anzamHossen">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anzamHossen&theme=dark&show_icons=true&count_private=true&hide=contribs&line_height=40" />
 </a>
-<a href="https://github.com/Akash0000439">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash0000439&theme=dark&langs_count=4&hide=html,css,erlang" />
+<a href="https://github.com/anzamHossen">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anzamHossen&theme=dark&langs_count=4&hide=html,css,erlang" />
 </a>
 
 
