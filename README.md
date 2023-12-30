@@ -15,18 +15,18 @@ Welcome to my profile! Currently I'm working at [Nagadhat](https://nagadhat.com.
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
                                                                                                 
-### Quick highlighs
+### Quick highlights
 
 - Experience in PHP Laravel
-- 1 + years of professional experience in the software industry
-- Developed applications by following SOLID principles, clean architecture.
-- Open-source enthusiast and love to write elegant code.
+- 2 year of professional experience in the software industry
+- Developed applications by following SOLID principles, and clean architecture.
+- Open-source enthusiast and loves to write elegant code.
 
 ### Technology Stacks
 - Language: PHP, Javascript
 - Frameworks: Laravel, Vue.js,
-- DBMS: MySQL, Sql, Sql Lite
-- Infrastructure:  cPanel,cws
+- DBMS: MySQL, SQL, SQL Lite
+- Infrastructure:  cPanel,cloudways
 
 
 ### :hammer_and_wrench: Languages and Tools :
