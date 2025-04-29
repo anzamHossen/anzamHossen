@@ -1,5 +1,5 @@
 # Hi! I'm Md Anzam 👋
-Welcome to my profile! Currently I'm working at [RBN APPLY LIMITED](https://rbnapply.com/) as a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. Thanks for visiting, and I'd love to connect
+Welcome to my profile! Currently I'm working at [Nagadhat Bangladesh Limited](https://nagadhat.com.bd/) as a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. Thanks for visiting, and I'd love to connect
 <div id="badges">
   <a href=https://www.linkedin.com/in/md-anzam-hossen-83bb041b7/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -18,7 +18,7 @@ Welcome to my profile! Currently I'm working at [RBN APPLY LIMITED](https://rbna
 ### Quick highlights
 
 - Experience in PHP Laravel
-- 1.7 years of professional experience in the software industry
+- 3 years of professional experience in the software industry
 - Developed applications by following SOLID principles and clean architecture.
 - Repository Pattern.
 - Open-source enthusiast and loves to write elegant code.
